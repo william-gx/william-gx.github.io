@@ -34,7 +34,7 @@ Selected Publication
 
 <!-- ------------------ Paper 1 ------------------ -->
 <div class="paper-item">
-  <img src="/assets/intsim.png" alt="IntSim">
+  <img src="/assets/intsim.gif" alt="IntSim">
   
   <div class="paper-meta" markdown="1">
   
