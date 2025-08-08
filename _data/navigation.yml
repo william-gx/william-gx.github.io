@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "News"
-    url: /about/#news/ 
+    url: "{{ '/about/#news' | relative_url }}"
     
   - title: "Publications"
-    url: /about/#publications/
+    url: "{{ '/about/#publications' | relative_url }}"
 
   - title: "Applications"
-    url: /about/#applications/
+    url: "{{ '/about/#applications' | relative_url }}"
 
 
 
