@@ -57,15 +57,13 @@ Zherui Huang, **Xing Gao**<sup>‡</sup>, Guanjie Zheng<sup>‡</sup>, Licheng W
   
   <div class="paper-meta">
   
-### **NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**
+### **Dynamic Scenario Representation Learning for Motion Forecasting with Heterogeneous Graph Convolutional Recurrent Networks**
 
-Wenzhe Cai, Jiaqi Peng, Yuqiang Yang, Yujian Zhang, …, **Tai Wang**<sup>†</sup>, Jiangmiao Pang<sup>†</sup>  
-*ArXiv preprint*  
+**Xing Gao**, Xiaogang Jia, Yikang Li, and Hongkai Xiong
+
+*RAL 2023*  
 <span class="paper-links">
-  <a href="https://project.page/navdp">Project Page</a>
-  <a href="https://arxiv.org/abs/yyyy.yyyyy">Paper</a>
-  <a href="https://github.com/xxx/navdp">Code</a>
-  <a href="https://zhuanlan.zhihu.com/p/yyyyyy">Zhihu</a>
+  <a href="https://arxiv.org/pdf/2303.04364">Paper</a>
 </span>
   
   </div>
