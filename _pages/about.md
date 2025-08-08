@@ -19,10 +19,11 @@ News
 * \[2025/01\] [IntSim](https://arxiv.org/abs/2503.05180) accepted by ICRA' 25.
 * \[2024/05\] ProgD ranks **1st** on the INTERACTION Multi-agent Leaderboard.
 
+
+
 Selected Publication
 ======
 ## Autonomous Driving
-
 <!-- ---------- 仅此一段 CSS；可放到 <head> 或这里 ---------- -->
 <style>
 .paper-item  { display:flex; align-items:flex-start; margin-bottom:3rem; }
@@ -62,6 +63,6 @@ Zherui Huang, **Xing Gao**<sup>&#x2709;</sup>, Guanjie Zheng<sup>&#x2709;</sup>,
 <span class="paper-links">
   <a href="https://arxiv.org/pdf/2303.04364">Paper</a>
 </span>
-  
+
   </div>
 </div>
