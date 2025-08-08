@@ -43,10 +43,11 @@ Selected Publication
 <div class="paper-item">
   <img src="/assets/intsim.png" alt="IntSim">
   
-  <div class="paper-meta">
+  <div class="paper-meta" markdown="1">
   
-### **Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions**
+### **Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions** 
 
+<br>
 Zherui Huang, **Xing Gao**<sup>‡</sup>, Guanjie Zheng<sup>‡</sup>, Licheng Wen, Xuemeng Yang, and Xiao Sun
 
 <span class="paper-links">
