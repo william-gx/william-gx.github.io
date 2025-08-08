@@ -35,7 +35,7 @@ I warmly welcome interested students and interns to reach out via email if you a
   <img src="/assets/figures/intsim.png" alt="IntSim">
   <div class="paper-meta" markdown="1">
   
-#### **Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions** 
+### **Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions** 
 
 Zherui Huang, **Xing Gao**<sup>&#x2709;</sup>, Guanjie Zheng<sup>&#x2709;</sup>, Licheng Wen, Xuemeng Yang, and Xiao Sun    
 *ICRA 2025*  
@@ -51,7 +51,7 @@ Zherui Huang, **Xing Gao**<sup>&#x2709;</sup>, Guanjie Zheng<sup>&#x2709;</sup>,
   <img src="/assets/figures/scenedm.png" alt="SceneDM">  
    <div class="paper-meta" markdown="1">
   
-#### **SceneDM: Consistent Diffusion Models for Coherent Multi-agent Trajectory Generation**
+### **SceneDM: Consistent Diffusion Models for Coherent Multi-agent Trajectory Generation**
 
 Zhiming Guo, **Xing Gao**<sup>&#x2709;</sup>, Jianlan Zhou, Xinyu Cai, Xuemeng Yang, Licheng Wen, and Xiao Sun   
 *CASE 2025*     
@@ -67,7 +67,7 @@ Zhiming Guo, **Xing Gao**<sup>&#x2709;</sup>, Jianlan Zhou, Xinyu Cai, Xuemeng Y
   <img src="/assets/figures/HeteroGCN.png" alt="HeteroGCN">  
    <div class="paper-meta" markdown="1">
   
-#### **Dynamic Scenario Representation Learning for Motion Forecasting with Heterogeneous Graph Convolutional Recurrent Networks**
+### **Dynamic Scenario Representation Learning for Motion Forecasting with Heterogeneous Graph Convolutional Recurrent Networks**
 
 **Xing Gao**, Xiaogang Jia, Yikang Li, and Hongkai Xiong   
 *RAL 2023*     
