@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Researcher at the Embodied AI Center, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). My research focuses on graph learning, robotics learning, and autonomous driving. I have explored various applications of graph learning in autonomous driving, sports, and physical simulations.
+I am a Researcher at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). My research focuses on graph learning, robotics learning, and autonomous driving. I have explored various applications of graph learning in autonomous driving, sports, and physical simulations.
 
 I received my Ph.D. degree in Electronic Engineering from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn), advised by Prof. [Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14). From 2018 to 2019, I was a visiting Ph.D. student at the Signal Processing Laboratory (LTS4) at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), co-supervised by Prof. [Pascal Frossard](https://people.epfl.ch/pascal.frossard). Before that, I achieved my B.S. in Electronic Engineering from Shanghai Jiao Tong University, receiving the the *SJTU Outstanding Bachelor's Thesis (Top 1%)*.
 
@@ -21,36 +21,18 @@ News
 
 Selected Publication
 ======
-<h2 class="archive__item-title">Autonoomous Driving</h2>
-<div class="list__item">
-  <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-    <div style="flex-shrink: 0; margin-right: 20px;">
-    <img src="/assets/intsim.png" alt="IntSim paper image" width="250" style="max-width: 100%; height: auto;">
-   <div class="list__item-content">
-  <h3 class="archive__item-title" style="margin-top: 0;">Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions</h3>
-  <p class="archive__item-excerpt">...</p>
-  <div class="list__item-links">
-    ...
-  </div>
-</div>
-</div>
-  </div>
-</div>
-
-## Navigation & Exploration
+## Autonomous Driving
 
 <table>
   <tr>
     <td style="width:260px; text-align:center;">
-      <img src="/assets/images/streamvln.png" alt="StreamVLN" width="250">
+      <img src="/assets/intsim.png" alt="IntSim" width="250">
     </td>
     <td>
 
-### **StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**
-
-Meng Wei*, Chenyang Wan*, Xiqian Yu*, **Tai Wang**<sup>‡</sup>, *et al.*  
-*ArXiv preprint*  
-[Project Page](/#) · [Paper](/#) · [Code](/#) · [Zhihu](/#)
+### **Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions**
+Zherui Huang, **Xing Gao**<sup>‡</sup>, Guanjie Zheng<sup>‡</sup>, Licheng Wen, Xuemeng Yang, and Xiao Sun
+[Project Page](/#) · [Paper](/#)  
 
 &nbsp;
 
@@ -62,9 +44,9 @@ Meng Wei*, Chenyang Wan*, Xiqian Yu*, **Tai Wang**<sup>‡</sup>, *et al.*
     </td>
     <td>
 
-### **NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**
+### ** e**
 
-Wenzhe Cai, Jiaqi Peng, Yuqiang Yang, Yujian Zhang, …, **Tai Wang**<sup>†</sup>, Jiangmiao Pang<sup>†</sup>  
+
 *ArXiv preprint*  
 [Project Page](/#) · [Paper](/#) · [Code](/#) · [Zhihu](/#)
 
