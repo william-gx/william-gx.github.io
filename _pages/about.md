@@ -23,12 +23,12 @@ Selected Publication
 ======
 ## Autonomous Driving
 
-<table>
-  <tr>
-    <td style="width:260px; text-align:center;">
+<table style="border-collapse:collapse;border:none;">
+  <tr style="border:none;">
+    <td style="width:260px;text-align:center;border:none;">
       <img src="/assets/intsim.png" alt="IntSim" width="250">
     </td>
-    <td>
+    <td style="border:none;">
 
 ### **Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions**
 Zherui Huang, **Xing Gao**<sup>‡</sup>, Guanjie Zheng<sup>‡</sup>, Licheng Wen, Xuemeng Yang, and Xiao Sun
@@ -38,11 +38,11 @@ Zherui Huang, **Xing Gao**<sup>‡</sup>, Guanjie Zheng<sup>‡</sup>, Licheng W
 
 </td>
   </tr>  
-  <tr>
-    <td style="width:260px; text-align:center;">
+   <tr style="border:none;">
+    <td style="width:260px;text-align:center;border:none;">
       <img src="/assets/images/navdp.png" alt="NavDP" width="250">
     </td>
-    <td>
+    <td style="border:none;">
 
 ### ** e**
 
