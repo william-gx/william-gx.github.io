@@ -21,3 +21,18 @@ News
 
 Selected Publication
 ======
+<h2 class="archive__item-title">Autonoomous Driving</h2>
+<div class="list__item">
+  <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+    <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="/assets/images/streamvln.jpg" alt="StreamVLN paper image" width="250" style="max-width: 100%; height: auto;">
+   <div class="list__item-content">
+  <h3 class="archive__item-title" style="margin-top: 0;">...</h3>
+  <p class="archive__item-excerpt">...</p>
+  <div class="list__item-links">
+    ...
+  </div>
+</div>
+</div>
+  </div>
+</div>
