@@ -23,35 +23,58 @@ Selected Publication
 ======
 ## Autonomous Driving
 
-<table style="border-collapse:collapse;border:none;">
-  <tr style="border:none;">
-    <td style="width:260px;text-align:center;border:none;">
-      <img src="/assets/intsim.png" alt="IntSim" width="250">
-    </td>
-    <td style="border:none;">
+<!-- ---------- 仅此一段 CSS；可放到 <head> 或这里 ---------- -->
+<style>
+.paper-item {
+  display: flex;               /* 左右排布 */
+  align-items: flex-start;     /* 顶端对齐 */
+  margin-bottom: 3rem;         /* 每篇之间留空 */
+}
+.paper-item img {
+  width: 250px;                /* 调整图片宽度 */
+  margin-right: 20px;          /* 图文间距 */
+  border-radius: 4px;          /* 可选：圆角 */
+}
+.paper-meta { max-width: 700px; }
+.paper-links a { margin-right: 8px; }
+</style>
 
+<!-- ------------------ Paper 1 ------------------ -->
+<div class="paper-item">
+  <img src="/assets/intsim.png" alt="IntSim">
+  
+  <div class="paper-meta">
+  
 ### **Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions**
+
 Zherui Huang, **Xing Gao**<sup>‡</sup>, Guanjie Zheng<sup>‡</sup>, Licheng Wen, Xuemeng Yang, and Xiao Sun
-[Project Page](/#) · [Paper](/#)  
 
-&nbsp;
+<span class="paper-links">
+  <a href="https://project.page/streamvln">Project Page</a>
+  <a href="https://arxiv.org/abs/xxxx.xxxxx">Paper</a>
+  <a href="https://github.com/xxx/streamvln">Code</a>
+  <a href="https://zhuanlan.zhihu.com/p/xxxxxx">Zhihu</a>
+</span>
+  
+  </div>
+</div>
 
-</td>
-  </tr>  
-   <tr style="border:none;">
-    <td style="width:260px;text-align:center;border:none;">
-      <img src="/assets/images/navdp.png" alt="NavDP" width="250">
-    </td>
-    <td style="border:none;">
+<!-- ------------------ Paper 2 ------------------ -->
+<div class="paper-item">
+  <img src="/assets/images/navdp.png" alt="NavDP">
+  
+  <div class="paper-meta">
+  
+### **NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**
 
-### ** e**
-
-
+Wenzhe Cai, Jiaqi Peng, Yuqiang Yang, Yujian Zhang, …, **Tai Wang**<sup>†</sup>, Jiangmiao Pang<sup>†</sup>  
 *ArXiv preprint*  
-[Project Page](/#) · [Paper](/#) · [Code](/#) · [Zhihu](/#)
-
-&nbsp;
-
-</td>
-  </tr>
-</table>
+<span class="paper-links">
+  <a href="https://project.page/navdp">Project Page</a>
+  <a href="https://arxiv.org/abs/yyyy.yyyyy">Paper</a>
+  <a href="https://github.com/xxx/navdp">Code</a>
+  <a href="https://zhuanlan.zhihu.com/p/yyyyyy">Zhihu</a>
+</span>
+  
+  </div>
+</div>
