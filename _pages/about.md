@@ -56,7 +56,7 @@ Zherui Huang, **Xing Gao**<sup>&#x2709;</sup>, Guanjie Zheng<sup>&#x2709;</sup>,
 ### **SceneDM: Consistent Diffusion Models for Coherent Multi-agent Trajectory Generation**
 
 Zhiming Guo, **Xing Gao**<sup>&#x2709;</sup>, Jianlan Zhou, Xinyu Cai, Xuemeng Yang, Licheng Wen, and Xiao Sun   
-**CASE 2025*     
+*CASE 2025*     
 <span class="paper-links">
   <a href="https://alperen-hub.github.io/SceneDM">Project Page</a>
   <a href="https://arxiv.org/abs/2311.15736">Paper</a>
