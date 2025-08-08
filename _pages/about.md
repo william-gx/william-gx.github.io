@@ -25,18 +25,11 @@ Selected Publication
 
 <!-- ---------- 仅此一段 CSS；可放到 <head> 或这里 ---------- -->
 <style>
-.paper-item {
-  display: flex;               /* 左右排布 */
-  align-items: flex-start;     /* 顶端对齐 */
-  margin-bottom: 3rem;         /* 每篇之间留空 */
-}
-.paper-item img {
-  width: 250px;                /* 调整图片宽度 */
-  margin-right: 20px;          /* 图文间距 */
-  border-radius: 4px;          /* 可选：圆角 */
-}
-.paper-meta { max-width: 700px; }
-.paper-links a { margin-right: 8px; }
+.paper-item  { display:flex; align-items:flex-start; margin-bottom:3rem; }
+.paper-item img{ width:250px; margin-right:20px; border-radius:4px; display:block; }
+.paper-meta h3{ margin-top:0; }             /* 关键：让文字区紧贴顶部 */
+.paper-links a{ margin-right:8px; }
+</style>
 </style>
 
 <!-- ------------------ Paper 1 ------------------ -->
@@ -47,7 +40,6 @@ Selected Publication
   
 ### **Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions** 
 
-<br>
 Zherui Huang, **Xing Gao**<sup>‡</sup>, Guanjie Zheng<sup>‡</sup>, Licheng Wen, Xuemeng Yang, and Xiao Sun
 
 <span class="paper-links">
