@@ -34,7 +34,7 @@ Selected Publication
 
 <!-- ------------------ Paper  ------------------ -->
 <div class="paper-item">
-  <img src="/assets/figures/intsim.gif" alt="IntSim">
+  <img src="/assets/figures/intsim.png" alt="IntSim">
   <div class="paper-meta" markdown="1">
   
 ### **Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions** 
