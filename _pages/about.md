@@ -36,3 +36,40 @@ Selected Publication
 </div>
   </div>
 </div>
+
+## Navigation & Exploration
+
+<table>
+  <tr>
+    <td style="width:260px; text-align:center;">
+      <img src="/assets/images/streamvln.png" alt="StreamVLN" width="250">
+    </td>
+    <td>
+
+### **StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**
+
+Meng Wei*, Chenyang Wan*, Xiqian Yu*, **Tai Wang**<sup>‡</sup>, *et al.*  
+*ArXiv preprint*  
+[Project Page](/#) · [Paper](/#) · [Code](/#) · [Zhihu](/#)
+
+&nbsp;
+
+</td>
+  </tr>  
+  <tr>
+    <td style="width:260px; text-align:center;">
+      <img src="/assets/images/navdp.png" alt="NavDP" width="250">
+    </td>
+    <td>
+
+### **NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**
+
+Wenzhe Cai, Jiaqi Peng, Yuqiang Yang, Yujian Zhang, …, **Tai Wang**<sup>†</sup>, Jiangmiao Pang<sup>†</sup>  
+*ArXiv preprint*  
+[Project Page](/#) · [Paper](/#) · [Code](/#) · [Zhihu](/#)
+
+&nbsp;
+
+</td>
+  </tr>
+</table>
