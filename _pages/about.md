@@ -14,6 +14,6 @@ I warmly welcome interested students and interns to reach out via email if you a
 
 News
 ======
-* \[2025/08\] We co-host a [Multimodal Robotic Learning Challenge](https://internrobotics.shlab.org.cn/challenge/2025/) in [IROS 2025](https://www.iros25.org/). 
+* \[2025/08\] We co-host a [Multimodal Robot Learning Challenge](https://internrobotics.shlab.org.cn/challenge/2025/) in [IROS 2025](https://www.iros25.org/). 
 
 
