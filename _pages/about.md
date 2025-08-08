@@ -41,6 +41,8 @@ Selected Publication
 
 Zherui Huang, **Xing Gao**<sup>‡</sup>, Guanjie Zheng<sup>‡</sup>, Licheng Wen, Xuemeng Yang, and Xiao Sun
 
+*ICRA 2025* 
+
 <span class="paper-links">
   <a href="https://project.page/streamvln">Project Page</a>
   <a href="https://arxiv.org/abs/2503.05180">Paper</a>
