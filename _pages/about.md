@@ -40,7 +40,7 @@ I warmly welcome interested students and interns to reach out via email if you a
 Zherui Huang, **Xing Gao**<sup>&#x2709;</sup>, Guanjie Zheng<sup>&#x2709;</sup>, Licheng Wen, Xuemeng Yang, and Xiao Sun    
 *ICRA 2025*  
 <span class="paper-links">
-  <a href="https://project.page/streamvln">Project Page</a>
+  <a href="https://william-gx.github.io/IntSim">Project Page</a>
   <a href="https://arxiv.org/abs/2503.05180">Paper</a>
 </span>
   </div>
