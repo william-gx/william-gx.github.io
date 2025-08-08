@@ -32,10 +32,9 @@ Selected Publication
 .paper-links a{ margin-right:8px; }
 </style>
 
-<!-- ------------------ Paper 1 ------------------ -->
+<!-- ------------------ Paper  ------------------ -->
 <div class="paper-item">
   <img src="/assets/intsim.gif" alt="IntSim">
-  
   <div class="paper-meta" markdown="1">
   
 ### **Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions** 
@@ -46,14 +45,28 @@ Zherui Huang, **Xing Gao**<sup>&#x2709;</sup>, Guanjie Zheng<sup>&#x2709;</sup>,
   <a href="https://project.page/streamvln">Project Page</a>
   <a href="https://arxiv.org/abs/2503.05180">Paper</a>
 </span>
-  
   </div>
 </div>
 
-<!-- ------------------ Paper 2 ------------------ -->
+<!-- ------------------ Paper  ------------------ -->
 <div class="paper-item">
-  <img src="/assets/HeteroGCN.png" alt="HeteroGCN">
+  <img src="/assets/scenedm.png" alt="SceneDM">  
+   <div class="paper-meta" markdown="1">
   
+### **SceneDM: Consistent Diffusion Models for Coherent Multi-agent Trajectory Generation**
+
+Zhiming Guo, **Xing Gao**<sup>&#x2709;</sup>, Jianlan Zhou, Xinyu Cai, Xuemeng Yang, Licheng Wen, and Xiao Sun   
+**CASE 2025*     
+<span class="paper-links">
+  <a href="https://alperen-hub.github.io/SceneDM">Project Page</a>
+  <a href="https://arxiv.org/abs/2311.15736">Paper</a>
+</span>
+  </div>
+</div>
+
+<!-- ------------------ Paper  ------------------ -->
+<div class="paper-item">
+  <img src="/assets/HeteroGCN.png" alt="HeteroGCN">  
    <div class="paper-meta" markdown="1">
   
 ### **Dynamic Scenario Representation Learning for Motion Forecasting with Heterogeneous Graph Convolutional Recurrent Networks**
@@ -63,6 +76,7 @@ Zherui Huang, **Xing Gao**<sup>&#x2709;</sup>, Guanjie Zheng<sup>&#x2709;</sup>,
 <span class="paper-links">
   <a href="https://arxiv.org/pdf/2303.04364">Paper</a>
 </span>
-
   </div>
 </div>
+
+
