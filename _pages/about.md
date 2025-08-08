@@ -12,7 +12,7 @@ I received my Ph.D. degree in Electronic Engineering from [Shanghai Jiao Tong Un
 
 I warmly welcome interested students and interns to reach out via email if you are interested in collaboration!
 
-## News {#News}
+<h2 id="news">News</h2>
 * \[2025/08\] We co-host a [Multimodal Robot Learning Challenge](https://internrobotics.shlab.org.cn/challenge/2025/) in IROS 2025. 
 * \[2025/02\] Our AI tactical prediction system for curling successfully applied at [2025 Asian Winter Games](https://www.harbin2025.com/english/index.html), featured on CCTV-16 and reported by [Xinhua News Agency](https://www.news.cn/sports/20250214/96fecff076cf4918bcbacc2540d6f837/c.html).
 * \[2025/01\] [IntSim](https://arxiv.org/abs/2503.05180) accepted by ICRA' 25.
@@ -20,7 +20,7 @@ I warmly welcome interested students and interns to reach out via email if you a
 
 
 
-## Selected Publication {#publications}
+<h2 id="publications">Selected Publications</h2>
 ### Autonomous Driving
 <!-- ---------- 仅此一段 CSS；可放到 <head> 或这里 ---------- -->
 <style>
