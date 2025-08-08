@@ -19,4 +19,5 @@ News
 * \[2025/01\] [IntSim](https://arxiv.org/abs/2503.05180) accepted by ICRA' 25.
 * \[2024/05\] ProgD ranks **1st** on the INTERACTION Multi-agent Leaderboard.
 
-
+Selected Publication
+======
