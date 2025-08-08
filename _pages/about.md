@@ -39,7 +39,7 @@ Selected Publication
   
 ### **Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions** 
 
-Zherui Huang, **Xing Gao**<sup>‡</sup>, Guanjie Zheng<sup>‡</sup>, Licheng Wen, Xuemeng Yang, and Xiao Sun    
+Zherui Huang, **Xing Gao**<sup>&#x2709;</sup>, Guanjie Zheng<sup>&#x2709;</sup>, Licheng Wen, Xuemeng Yang, and Xiao Sun    
 *ICRA 2025*  
 <span class="paper-links">
   <a href="https://project.page/streamvln">Project Page</a>
