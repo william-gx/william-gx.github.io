@@ -34,7 +34,7 @@ Selected Publication
 
 <!-- ------------------ Paper  ------------------ -->
 <div class="paper-item">
-  <img src="/assets/intsim.gif" alt="IntSim">
+  <img src="/assets/figures/intsim.gif" alt="IntSim">
   <div class="paper-meta" markdown="1">
   
 ### **Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions** 
@@ -50,7 +50,7 @@ Zherui Huang, **Xing Gao**<sup>&#x2709;</sup>, Guanjie Zheng<sup>&#x2709;</sup>,
 
 <!-- ------------------ Paper  ------------------ -->
 <div class="paper-item">
-  <img src="/assets/scenedm.png" alt="SceneDM">  
+  <img src="/assets/figures/scenedm.png" alt="SceneDM">  
    <div class="paper-meta" markdown="1">
   
 ### **SceneDM: Consistent Diffusion Models for Coherent Multi-agent Trajectory Generation**
@@ -66,7 +66,7 @@ Zhiming Guo, **Xing Gao**<sup>&#x2709;</sup>, Jianlan Zhou, Xinyu Cai, Xuemeng Y
 
 <!-- ------------------ Paper  ------------------ -->
 <div class="paper-item">
-  <img src="/assets/HeteroGCN.png" alt="HeteroGCN">  
+  <img src="/assets/figures/HeteroGCN.png" alt="HeteroGCN">  
    <div class="paper-meta" markdown="1">
   
 ### **Dynamic Scenario Representation Learning for Motion Forecasting with Heterogeneous Graph Convolutional Recurrent Networks**
