@@ -39,10 +39,8 @@ Selected Publication
   
 ### **Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions** 
 
-Zherui Huang, **Xing Gao**<sup>‡</sup>, Guanjie Zheng<sup>‡</sup>, Licheng Wen, Xuemeng Yang, and Xiao Sun
-
-*ICRA 2025* 
-
+Zherui Huang, **Xing Gao**<sup>‡</sup>, Guanjie Zheng<sup>‡</sup>, Licheng Wen, Xuemeng Yang, and Xiao Sun    
+*ICRA 2025*  
 <span class="paper-links">
   <a href="https://project.page/streamvln">Project Page</a>
   <a href="https://arxiv.org/abs/2503.05180">Paper</a>
@@ -53,15 +51,14 @@ Zherui Huang, **Xing Gao**<sup>‡</sup>, Guanjie Zheng<sup>‡</sup>, Licheng W
 
 <!-- ------------------ Paper 2 ------------------ -->
 <div class="paper-item">
-  <img src="/assets/images/navdp.png" alt="NavDP">
+  <img src="/assets/HeteroGCN.png" alt="HeteroGCN">
   
-  <div class="paper-meta">
+   <div class="paper-meta" markdown="1">
   
 ### **Dynamic Scenario Representation Learning for Motion Forecasting with Heterogeneous Graph Convolutional Recurrent Networks**
 
-**Xing Gao**, Xiaogang Jia, Yikang Li, and Hongkai Xiong
-
-*RAL 2023*  
+**Xing Gao**, Xiaogang Jia, Yikang Li, and Hongkai Xiong   
+*RAL 2023*     
 <span class="paper-links">
   <a href="https://arxiv.org/pdf/2303.04364">Paper</a>
 </span>
