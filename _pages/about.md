@@ -30,7 +30,6 @@ Selected Publication
 .paper-meta h3{ margin-top:0; }             /* 关键：让文字区紧贴顶部 */
 .paper-links a{ margin-right:8px; }
 </style>
-</style>
 
 <!-- ------------------ Paper 1 ------------------ -->
 <div class="paper-item">
@@ -44,9 +43,7 @@ Zherui Huang, **Xing Gao**<sup>‡</sup>, Guanjie Zheng<sup>‡</sup>, Licheng W
 
 <span class="paper-links">
   <a href="https://project.page/streamvln">Project Page</a>
-  <a href="https://arxiv.org/abs/xxxx.xxxxx">Paper</a>
-  <a href="https://github.com/xxx/streamvln">Code</a>
-  <a href="https://zhuanlan.zhihu.com/p/xxxxxx">Zhihu</a>
+  <a href="https://arxiv.org/abs/2503.05180">Paper</a>
 </span>
   
   </div>
