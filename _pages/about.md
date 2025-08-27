@@ -57,7 +57,7 @@ Zhiming Guo, **Xing Gao**<sup>&#x2709;</sup>, Jianlan Zhou, Xinyu Cai, Xuemeng Y
 *CASE 2025*     
 <span class="paper-links">
   <a href="https://alperen-hub.github.io/SceneDM">Project Page</a>
-  <a href="https://arxiv.org/abs/2311.15736">Paper</a>
+  <a href="https://alperen-hub.github.io/SceneDM/assets/thumbs/SceneDM.pdf">Paper</a>
 </span>
   </div>
 </div>
