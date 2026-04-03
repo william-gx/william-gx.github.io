@@ -22,6 +22,31 @@ I warmly welcome interested students and interns to reach out via email if you a
 
 
 <h2 id="publications">Selected Publications</h2>
+### Hummanoid Motion
+<!-- ---------- 仅此一段 CSS；可放到 <head> 或这里 ---------- -->
+<style>
+.paper-item  { display:flex; align-items:flex-start; margin-bottom:3rem; }
+.paper-item img{ width:250px; margin-right:20px; border-radius:4px; display:block; }
+.paper-meta h3{ margin-top:0; }             /* 关键：让文字区紧贴顶部 */
+.paper-links a{ margin-right:8px; }
+</style>
+
+<!-- ------------------ Paper  ------------------ -->
+<div class="paper-item">
+  <img src="/assets/figures/intsim.png" alt="IntSim">
+  <div class="paper-meta" markdown="1">
+  
+### **Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions** 
+
+Yude Zou, Junji Gong, **Xing Gao**<sup>&#x2709;</sup>, Zixuan Li, Tianxing Chen, and Guanjie Zheng
+*ICLR 2026*  
+<span class="paper-links">
+  <a href="https://yudezou.github.io/InfBaGel-page">Project Page</a>
+  <a href="https://openreview.net/pdf?id=TeyHNq4WlI">Paper</a>
+</span>
+  </div>
+</div>
+
 ### Autonomous Driving
 <!-- ---------- 仅此一段 CSS；可放到 <head> 或这里 ---------- -->
 <style>
