@@ -15,6 +15,7 @@ I warmly welcome interested students and interns to reach out via email if you a
 <h2 id="news">News</h2>
 * \[2026/01\] [A paper on Human-Object-Scene Interaction Generation](https://yudezou.github.io/InfBaGel-page/) accepted by ICLR' 26.
 * \[2025/08\] We co-host a [Multimodal Robot Learning Challenge](https://internrobotics.shlab.org.cn/challenge/2025/) in IROS 2025. 
+* \[2025/06\] GDPlan accepted by ToN and CSTA accepted by TCSVT.
 * \[2025/02\] Our AI tactical prediction system for curling was successfully applied at [2025 Asian Winter Games](https://www.harbin2025.com/english/index.html), featured on CCTV-16 and reported by [Xinhua News Agency](https://www.news.cn/sports/20250214/96fecff076cf4918bcbacc2540d6f837/c.html).
 * \[2025/01\] [IntSim](https://william-gx.github.io/IntSim) accepted by ICRA' 25.
 
@@ -54,7 +55,7 @@ Yude Zou, Junji Gong, **Xing Gao**<sup>&#x2709;</sup>, Zixuan Li, Tianxing Chen,
   
 ### **X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation** 
 
-Yuchen Yang, Xuanyi Liu, **Xing Gao**, Zhihang Zhong, Xiao Sun    
+Yuchen Yang, Xuanyi Liu, **Xing Gao**, Zhihang Zhong, and Xiao Sun    
 *arxiv 2024*  
 <span class="paper-links">
   <a href="https://arxiv.org/pdf/2411.13026?">Paper</a>
@@ -164,7 +165,7 @@ Zhiming Guo, **Xing Gao**<sup>&#x2709;</sup>, Jianlan Zhou, Xinyu Cai, Xuemeng Y
   
 ### **GDPlan: Generative Network Planning via Graph Diffusion Model** 
 
-Nuowen Kan, Sa Yan, Junni Zou, Wenrui Dai, **Xing Gao**, Chenglin Li, Hongkai Xiong    
+Nuowen Kan, Sa Yan, Junni Zou, Wenrui Dai, **Xing Gao**, Chenglin Li, and Hongkai Xiong    
 *ToN 2025*  
 <span class="paper-links">
   <a href="https://ieeexplore.ieee.org/abstract/document/10858184">Paper</a>
