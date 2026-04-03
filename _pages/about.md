@@ -36,9 +36,9 @@ I warmly welcome interested students and interns to reach out via email if you a
   <img src="/assets/figures/infbagel.jpg" alt="InfBaGel">
   <div class="paper-meta" markdown="1">
   
-### **Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions** 
+### **InfBaGel: Human-Object-Scene Interaction Generation with Dynamic Perception and Iterative Refinement** 
 
-Yude Zou, Junji Gong, **Xing Gao**<sup>&#x2709;</sup>, Zixuan Li, Tianxing Chen, and Guanjie Zheng
+Yude Zou, Junji Gong, **Xing Gao**<sup>&#x2709;</sup>, Zixuan Li, Tianxing Chen, and Guanjie Zheng    
 *ICLR 2026*  
 <span class="paper-links">
   <a href="https://yudezou.github.io/InfBaGel-page">Project Page</a>
