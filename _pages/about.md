@@ -56,7 +56,7 @@ Yude Zou, Junji Gong, **Xing Gao**<sup>&#x2709;</sup>, Zixuan Li, Tianxing Chen,
 ### **X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation** 
 
 Yuchen Yang, Xuanyi Liu, **Xing Gao**, Zhihang Zhong, and Xiao Sun    
-*arxiv 2024*  
+*arXiv 2024*  
 <span class="paper-links">
   <a href="https://arxiv.org/pdf/2411.13026?">Paper</a>
 </span>
