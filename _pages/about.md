@@ -33,7 +33,7 @@ I warmly welcome interested students and interns to reach out via email if you a
 
 <!-- ------------------ Paper  ------------------ -->
 <div class="paper-item">
-  <img src="/assets/figures/infbagel.png" alt="IntSim">
+  <img src="/assets/figures/infbagel.png" alt="InfBaGel">
   <div class="paper-meta" markdown="1">
   
 ### **Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions** 
