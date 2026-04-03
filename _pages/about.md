@@ -129,7 +129,7 @@ Zhiming Guo, **Xing Gao**<sup>&#x2709;</sup>, Jianlan Zhou, Xinyu Cai, Xuemeng Y
 
 <!-- ------------------ Paper  ------------------ -->
 <div class="paper-item">
-  <img src="/assets/figures/prooxconv.png" alt="ProxConv">
+  <img src="/assets/figures/proxconv.png" alt="ProxConv">
   <div class="paper-meta" markdown="1">
   
 ### **Multiscale Representation Learning of Graph Data with Node Affinity** 
@@ -138,6 +138,21 @@ Zhiming Guo, **Xing Gao**<sup>&#x2709;</sup>, Jianlan Zhou, Xinyu Cai, Xuemeng Y
 *TSIPN 2020*  
 <span class="paper-links">
   <a href="https://ieeexplore.ieee.org/abstract/document/9295365">Paper</a>
+</span>
+  </div>
+</div>
+
+<!-- ------------------ Paper  ------------------ -->
+<div class="paper-item">
+  <img src="/assets/figures/gdplan.png" alt="GDPlan">
+  <div class="paper-meta" markdown="1">
+  
+### **GDPlan: Generative Network Planning via Graph Diffusion Model** 
+
+Nuowen Kan, Sa Yan, Junni Zou, Wenrui Dai, **Xing Gao**, Chenglin Li, Hongkai Xiong    
+*ToN 2025*  
+<span class="paper-links">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10858184">Paper</a>
 </span>
   </div>
 </div>
