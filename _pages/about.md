@@ -47,6 +47,21 @@ Yude Zou, Junji Gong, **Xing Gao**<sup>&#x2709;</sup>, Zixuan Li, Tianxing Chen,
   </div>
 </div>
 
+<!-- ------------------ Paper  ------------------ -->
+<div class="paper-item">
+  <img src="/assets/figures/xassup.png" alt="3dpose">
+  <div class="paper-meta" markdown="1">
+  
+### **X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation** 
+
+Yuchen Yang, Xuanyi Liu, **Xing Gao**, Zhihang Zhong, Xiao Sun    
+*arxiv 2024*  
+<span class="paper-links">
+  <a href="https://arxiv.org/pdf/2411.13026?">Paper</a>
+</span>
+  </div>
+</div>
+
 ### Autonomous Driving
 <!-- ---------- 仅此一段 CSS；可放到 <head> 或这里 ---------- -->
 <style>
