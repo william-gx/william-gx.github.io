@@ -71,7 +71,7 @@ Zhiming Guo, **Xing Gao**<sup>&#x2709;</sup>, Jianlan Zhou, Xinyu Cai, Xuemeng Y
 ### **Dynamic Scenario Representation Learning for Motion Forecasting with Heterogeneous Graph Convolutional Recurrent Networks**
 
 **Xing Gao**, Xiaogang Jia, Yikang Li, and Hongkai Xiong   
-*RAL 2023*     
+*RA-L 2023*     
 <span class="paper-links">
   <a href="https://arxiv.org/pdf/2303.04364">Paper</a>
 </span>
