@@ -22,7 +22,7 @@ I warmly welcome interested students and interns to reach out via email if you a
 
 
 <h2 id="publications">Selected Publications</h2>
-### Hummanoid Motion
+### Humanoid Motion
 <!-- ---------- 仅此一段 CSS；可放到 <head> 或这里 ---------- -->
 <style>
 .paper-item  { display:flex; align-items:flex-start; margin-bottom:3rem; }
