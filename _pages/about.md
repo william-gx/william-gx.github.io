@@ -15,7 +15,7 @@ I warmly welcome interested students and interns to reach out via email if you a
 <h2 id="news">News</h2>
 * \[2026/01\] [A paper on Human-Object-Scene Interaction Generation](https://yudezou.github.io/InfBaGel-page/) accepted by ICLR' 26.
 * \[2025/08\] We co-host a [Multimodal Robot Learning Challenge](https://internrobotics.shlab.org.cn/challenge/2025/) in IROS 2025. 
-* \[2025/06\] GDPlan accepted by ToN and CSTA accepted by TCSVT.
+* \[2025/06\] *GDPlan* accepted by ToN and *CSTA* accepted by TCSVT.    
 * \[2025/02\] Our AI tactical prediction system for curling was successfully applied at [2025 Asian Winter Games](https://www.harbin2025.com/english/index.html), featured on CCTV-16 and reported by [Xinhua News Agency](https://www.news.cn/sports/20250214/96fecff076cf4918bcbacc2540d6f837/c.html).
 * \[2025/01\] [IntSim](https://william-gx.github.io/IntSim) accepted by ICRA' 25.
 
