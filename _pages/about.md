@@ -8,11 +8,12 @@ redirect_from:
 ---
 I am a Researcher at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). My research focuses on graph learning, robotics learning, and autonomous driving. I have explored various applications of graph learning in autonomous driving, sports, and physical simulations.
 
-I received my Ph.D. degree in Electronic Engineering from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn), advised by Prof. [Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14). From 2018 to 2019, I was a visiting Ph.D. student at the Signal Processing Laboratory (LTS4) at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), co-supervised by Prof. [Pascal Frossard](https://people.epfl.ch/pascal.frossard). Before that, I achieved my B.S. in Electronic Engineering from Shanghai Jiao Tong University, receiving the the *SJTU Outstanding Bachelor's Thesis (Top 1%)*.
+I received my Ph.D. degree in Electronic Engineering from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn), advised by Prof. [Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14). From 2018 to 2019, I was a visiting Ph.D. student at the Signal Processing Laboratory (LTS4) at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), co-supervised by Prof. [Pascal Frossard](https://people.epfl.ch/pascal.frossard). Before that, I achieved my B.S. in Electronic Engineering from Shanghai Jiao Tong University, receiving the *SJTU Outstanding Bachelor's Thesis (Top 1%)*.
 
 I warmly welcome interested students and interns to reach out via email if you are interested in collaboration!
 
 <h2 id="news">News</h2>
+* \[2026/01\] [A paper on Human-Object-Scene Interaction Generation](https://yudezou.github.io/InfBaGel-page/) accepted by ICLR' 26.
 * \[2025/08\] We co-host a [Multimodal Robot Learning Challenge](https://internrobotics.shlab.org.cn/challenge/2025/) in IROS 2025. 
 * \[2025/02\] Our AI tactical prediction system for curling was successfully applied at [2025 Asian Winter Games](https://www.harbin2025.com/english/index.html), featured on CCTV-16 and reported by [Xinhua News Agency](https://www.news.cn/sports/20250214/96fecff076cf4918bcbacc2540d6f837/c.html).
 * \[2025/01\] [IntSim](https://william-gx.github.io/IntSim) accepted by ICRA' 25.
