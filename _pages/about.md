@@ -103,4 +103,41 @@ Zhiming Guo, **Xing Gao**<sup>&#x2709;</sup>, Jianlan Zhou, Xinyu Cai, Xuemeng Y
   </div>
 </div>
 
+### Graph Learning
+<!-- ---------- 仅此一段 CSS；可放到 <head> 或这里 ---------- -->
+<style>
+.paper-item  { display:flex; align-items:flex-start; margin-bottom:3rem; }
+.paper-item img{ width:250px; margin-right:20px; border-radius:4px; display:block; }
+.paper-meta h3{ margin-top:0; }             /* 关键：让文字区紧贴顶部 */
+.paper-links a{ margin-right:8px; }
+</style>
 
+<!-- ------------------ Paper  ------------------ -->
+<div class="paper-item">
+  <img src="/assets/figures/ipool.png" alt="iPool">
+  <div class="paper-meta" markdown="1">
+  
+### **iPool - Information-based Pooling in Hierarchical Graph Neural Networks** 
+
+**Xing Gao**, Wenrui Dai, Chenglin Li, Hongkai Xiong, and Pascal Frossard 
+*TNNLS 2021*  
+<span class="paper-links">
+  <a href="https://ieeexplore.ieee.org/abstract/document/9392315">Paper</a>
+</span>
+  </div>
+</div>
+
+<!-- ------------------ Paper  ------------------ -->
+<div class="paper-item">
+  <img src="/assets/figures/prooxconv.png" alt="ProxConv">
+  <div class="paper-meta" markdown="1">
+  
+### **Multiscale Representation Learning of Graph Data with Node Affinity** 
+
+**Xing Gao**, Wenrui Dai, Chenglin Li, Hongkai Xiong, and Pascal Frossard 
+*TSIPN 2020*  
+<span class="paper-links">
+  <a href="https://ieeexplore.ieee.org/abstract/document/9295365">Paper</a>
+</span>
+  </div>
+</div>
