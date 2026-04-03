@@ -119,7 +119,7 @@ Zhiming Guo, **Xing Gao**<sup>&#x2709;</sup>, Jianlan Zhou, Xinyu Cai, Xuemeng Y
   
 ### **iPool - Information-based Pooling in Hierarchical Graph Neural Networks** 
 
-**Xing Gao**, Wenrui Dai, Chenglin Li, Hongkai Xiong, and Pascal Frossard 
+**Xing Gao**, Wenrui Dai, Chenglin Li, Hongkai Xiong, and Pascal Frossard    
 *TNNLS 2021*  
 <span class="paper-links">
   <a href="https://ieeexplore.ieee.org/abstract/document/9392315">Paper</a>
@@ -134,7 +134,7 @@ Zhiming Guo, **Xing Gao**<sup>&#x2709;</sup>, Jianlan Zhou, Xinyu Cai, Xuemeng Y
   
 ### **Multiscale Representation Learning of Graph Data with Node Affinity** 
 
-**Xing Gao**, Wenrui Dai, Chenglin Li, Hongkai Xiong, and Pascal Frossard 
+**Xing Gao**, Wenrui Dai, Chenglin Li, Hongkai Xiong, and Pascal Frossard    
 *TSIPN 2020*  
 <span class="paper-links">
   <a href="https://ieeexplore.ieee.org/abstract/document/9295365">Paper</a>
