@@ -13,7 +13,7 @@ I received my Ph.D. degree in Electronic Engineering from [Shanghai Jiao Tong Un
 I warmly welcome interested students and interns to reach out via email if you are interested in collaboration!
 
 <h2 id="news">News</h2>
-* \[2026/01\] [LogitSpec](https://arxiv.org/abs/2507.01449) accepted by ACL Findings' 26.
+* \[2026/04\] [LogitSpec](https://arxiv.org/abs/2507.01449) accepted by ACL Findings' 26.
 * \[2026/01\] [A paper on Human-Object-Scene Interaction Generation](https://yudezou.github.io/InfBaGel-page/) accepted by ICLR' 26.
 * \[2025/08\] We co-host a [Multimodal Robot Learning Challenge](https://internrobotics.shlab.org.cn/challenge/2025/) in IROS 2025. 
 * \[2025/06\] *GDPlan* accepted by ToN and *CSTA* accepted by TCSVT.    
