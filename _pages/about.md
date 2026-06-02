@@ -111,6 +111,22 @@ Zhiming Guo, **Xing Gao**<sup>&#x2709;</sup>, Jianlan Zhou, Xinyu Cai, Xuemeng Y
 <div class="paper-item">
   <img src="/assets/figures/HeteroGCN.png" alt="HeteroGCN">  
    <div class="paper-meta" markdown="1">
+
+### **Realistic Rainy Weather Simulation for LiDARs in CARLA Simulator**
+
+Donglin Yang, Xinyu Cai, Zhenfeng Liu, Wentao Jiang, Bo Zhang, Guohang Yan, **Xing Gao**, Si Liu, Botian Shi   
+*IROS 2024*     
+<span class="paper-links">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10802036">Paper</a>
+</span>
+  </div>
+</div>
+
+<!-- ------------------ Paper  ------------------ -->
+<div class="paper-item">
+  <img src="/assets/figures/simrain.png" alt="HeteroGCN">  
+   <div class="paper-meta" markdown="1">
+
   
 ### **Dynamic Scenario Representation Learning for Motion Forecasting with Heterogeneous Graph Convolutional Recurrent Networks**
 
