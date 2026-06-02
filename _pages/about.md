@@ -109,7 +109,7 @@ Zhiming Guo, **Xing Gao**<sup>&#x2709;</sup>, Jianlan Zhou, Xinyu Cai, Xuemeng Y
 
 <!-- ------------------ Paper  ------------------ -->
 <div class="paper-item">
-  <img src="/assets/figures/HeteroGCN.png" alt="HeteroGCN">  
+  <img src="/assets/figures/simrain.png" alt="sim">  
    <div class="paper-meta" markdown="1">
 
 ### **Realistic Rainy Weather Simulation for LiDARs in CARLA Simulator**
@@ -124,7 +124,7 @@ Donglin Yang, Xinyu Cai, Zhenfeng Liu, Wentao Jiang, Bo Zhang, Guohang Yan, **Xi
 
 <!-- ------------------ Paper  ------------------ -->
 <div class="paper-item">
-  <img src="/assets/figures/simrain.png" alt="HeteroGCN">  
+  <img src="/assets/figures/HeteroGCN.png" alt="HeteroGCN">  
    <div class="paper-meta" markdown="1">
 
   
