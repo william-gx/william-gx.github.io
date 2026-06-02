@@ -138,7 +138,7 @@ Zhiming Guo, **Xing Gao**<sup>&#x2709;</sup>, Jianlan Zhou, Xinyu Cai, Xuemeng Y
 ### **iPool - Information-based Pooling in Hierarchical Graph Neural Networks** 
 
 **Xing Gao**, Wenrui Dai, Chenglin Li, Hongkai Xiong, and Pascal Frossard    
-*TNNLS 2021*  
+*IEEE TNNLS 2021*  
 <span class="paper-links">
   <a href="https://ieeexplore.ieee.org/abstract/document/9392315">Paper</a>
 </span>
@@ -153,7 +153,7 @@ Zhiming Guo, **Xing Gao**<sup>&#x2709;</sup>, Jianlan Zhou, Xinyu Cai, Xuemeng Y
 ### **Multiscale Representation Learning of Graph Data with Node Affinity** 
 
 **Xing Gao**, Wenrui Dai, Chenglin Li, Hongkai Xiong, and Pascal Frossard    
-*TSIPN 2020*  
+*IEEE TSIPN 2020*  
 <span class="paper-links">
   <a href="https://ieeexplore.ieee.org/abstract/document/9295365">Paper</a>
 </span>
@@ -168,7 +168,7 @@ Zhiming Guo, **Xing Gao**<sup>&#x2709;</sup>, Jianlan Zhou, Xinyu Cai, Xuemeng Y
 ### **GDPlan: Generative Network Planning via Graph Diffusion Model** 
 
 Nuowen Kan, Sa Yan, Junni Zou, Wenrui Dai, **Xing Gao**, Chenglin Li, and Hongkai Xiong    
-*ToN 2025*  
+*IEEE ToN 2025*  
 <span class="paper-links">
   <a href="https://ieeexplore.ieee.org/abstract/document/10858184">Paper</a>
 </span>
