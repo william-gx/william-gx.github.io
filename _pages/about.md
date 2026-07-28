@@ -40,11 +40,6 @@ Boyu Mi, Mengchen Ma, Yifei Yao, **Xing Gao**<sup>&#x2709;</sup>, Junting Chen, 
   </div>
 </div>
 
-<!-- ------------------ Paper  ------------------ -->
-<div class="paper-item">
-  <img src="/assets/figures/xassup.png" alt="3dpose">
-  <div class="paper-meta" markdown="1">
-
 
 <h2 id="publications">Selected Publications</h2>
 ### Humanoid Motion
