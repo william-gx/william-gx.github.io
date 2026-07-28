@@ -26,6 +26,13 @@ I warmly welcome interested students and interns to reach out via email if you a
 <h2 id="publications">Selected Publications</h2>
 
 ### Manipulation
+<!-- ---------- 仅此一段 CSS；可放到 <head> 或这里 ---------- -->
+<style>
+.paper-item  { display:flex; align-items:flex-start; margin-bottom:3rem; }
+.paper-item img{ width:250px; margin-right:20px; border-radius:4px; display:block; }
+.paper-meta h3{ margin-top:0; }             /* 关键：让文字区紧贴顶部 */
+.paper-links a{ margin-right:8px; }
+</style>
 
 <!-- ------------------ Paper  ------------------ -->
 <div class="paper-item">
