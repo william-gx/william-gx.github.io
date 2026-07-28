@@ -128,6 +128,22 @@ Yuchen Yang, Xuanyi Liu, **Xing Gao**, Zhihang Zhong, and Xiao Sun
 
 <!-- ------------------ Paper  ------------------ -->
 <div class="paper-item">
+  <img src="/assets/figures/joint.png" alt="Joint">
+  <div class="paper-meta" markdown="1">
+  
+### **Joint Multi-agent Motion Forecasting via Progressive Multi-scale Decoding over Dynamic Graphs** 
+
+**Xing Gao**, Zherui Huang    
+*IROS 2026*  
+<span class="paper-links">
+  <a href="https://arxiv.org/abs/2509.09210">Paper</a>
+</span>
+  </div>
+</div>
+
+
+<!-- ------------------ Paper  ------------------ -->
+<div class="paper-item">
   <img src="/assets/figures/intsim.png" alt="IntSim">
   <div class="paper-meta" markdown="1">
   
