@@ -13,7 +13,7 @@ I received my Ph.D. degree in Electronic Engineering from [Shanghai Jiao Tong Un
 I warmly welcome interested students and interns to reach out via email if you are interested in collaboration!
 
 <h2 id="news">News</h2>
-* \[2026/06\]  [An agentic framework for open-world mobile manipulation](https://internrobotics.github.io/REAL/)) accepted by ECCV'26. 
+* \[2026/06\]  An agentic framework for open-world mobile manipulation [REAL](https://internrobotics.github.io/REAL/) accepted by ECCV'26. 
 * \[2026/05\]  EmbodiedClaw accepted by CVPR MARS Workshop'26. 
 * \[2026/05\]  We have released a *24/7 online mobile manipulation benchmark* [EBench](https://github.com/InternRobotics/EBench).
 * \[2026/04\] [LogitSpec](https://arxiv.org/abs/2507.01449) accepted by ACL Findings' 26.
