@@ -13,7 +13,8 @@ I received my Ph.D. degree in Electronic Engineering from [Shanghai Jiao Tong Un
 I warmly welcome interested students and interns to reach out via email if you are interested in collaboration!
 
 <h2 id="news">News</h2>
-* \[2026/05\]  [EmbodiedClaw](https://github.com/EmbodiedClaw/EmbodiedClaw) accepted by CVPR MARS Workshop'26. 
+* \[2026/06\]  An agentic frameworw for open-world mobile manipulation [REAL]([https://github.com/EmbodiedClaw/EmbodiedClaw](https://internrobotics.github.io/REAL/)) accepted by ECCV'26. 
+* \[2026/05\]  EmbodiedClaw accepted by CVPR MARS Workshop'26. 
 * \[2026/05\]  We have released a *24/7 online mobile manipulation benchmark* [EBench](https://github.com/InternRobotics/EBench).
 * \[2026/04\] [LogitSpec](https://arxiv.org/abs/2507.01449) accepted by ACL Findings' 26.
 * \[2026/01\] [A paper on Human-Object-Scene Interaction Generation](https://yudezou.github.io/InfBaGel-page/) accepted by ICLR' 26.
@@ -22,7 +23,27 @@ I warmly welcome interested students and interns to reach out via email if you a
 * \[2025/02\] Our AI tactical prediction system for curling was successfully applied at [2025 Asian Winter Games](https://www.harbin2025.com/english/index.html), featured on CCTV-16 and reported by [Xinhua News Agency](https://www.news.cn/sports/20250214/96fecff076cf4918bcbacc2540d6f837/c.html).
 * \[2025/01\] [IntSim](https://william-gx.github.io/IntSim) accepted by ICRA' 25.
 
+<!-- ------------------ Paper  ------------------ -->
+<div class="paper-item">
+  <img src="/assets/figures/real.png" alt="InfBaGel">
+  <div class="paper-meta" markdown="1">
+  
+### **Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation** 
+  
+Boyu Mi, Mengchen Ma, Yifei Yao, **Xing Gao**<sup>&#x2709;</sup>, Junting Chen, Yangzi Li, Zihou Zhu, Guohao Li, Zhenfei Yin, Tai Wang, Yao Mu, Jiangmiao Pang, Hanqing Wang<sup>&#x2709;</sup>
+*ECCV 2026*  
+<span class="paper-links">
+  <a href="https://internrobotics.github.io/REAL/">Project Page</a>
+  <a href="https://arxiv.org/abs/2607.13653">Paper</a>
+  <a href="https://github.com/InternRobotics/REAL">Code</a>
+</span>
+  </div>
+</div>
 
+<!-- ------------------ Paper  ------------------ -->
+<div class="paper-item">
+  <img src="/assets/figures/xassup.png" alt="3dpose">
+  <div class="paper-meta" markdown="1">
 
 
 <h2 id="publications">Selected Publications</h2>
