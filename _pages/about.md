@@ -25,6 +25,8 @@ I warmly welcome interested students and interns to reach out via email if you a
 
 <h2 id="publications">Selected Publications</h2>
 
+### Manipulation
+
 <!-- ------------------ Paper  ------------------ -->
 <div class="paper-item">
   <img src="/assets/figures/real.png" alt="InfBaGel">
@@ -48,7 +50,7 @@ Boyu Mi, Mengchen Ma, Yifei Yao, **Xing Gao**<sup>&#x2709;</sup>, Junting Chen, 
   <img src="/assets/figures/ebench.png" alt="EBench">
   <div class="paper-meta" markdown="1">
   
-### **Ebench: Elemental diagnosis of generalist mobile manipulation policies** 
+### **Ebench: Elemental Diagnosis of Generalist Mobile Manipulation Policies** 
 
 Ning Gao, Jinliang Zheng, **Xing Gao**, Haoxiang Ma, Hanqing Wang, Yukai Wang, Jiantong Chen, Zanxin Chen, Shujie Zhang, Mingda Jia, Xuekun Jiang, Zihou Zhu, Xinyu Li, Shuai Wang, Hao Li, Wenzhe Cai, Yuqiang Yang, Xudong Xu, Zhaoyang Lyu, Yao Mu, Tai Wang, Jiangmiao Pang, Jia Zeng, Weinan Zhang, Chunhua Shen    
 *arXiv 2026*  
