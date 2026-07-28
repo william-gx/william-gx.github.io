@@ -207,7 +207,7 @@ Donglin Yang, Xinyu Cai, Zhenfeng Liu, Wentao Jiang, Bo Zhang, Guohang Yan, **Xi
 ### **Dynamic Scenario Representation Learning for Motion Forecasting with Heterogeneous Graph Convolutional Recurrent Networks**
 
 **Xing Gao**, Xiaogang Jia, Yikang Li, and Hongkai Xiong   
-*RA-L 2023*     
+*IEEE RA-L 2023*     
 <span class="paper-links">
   <a href="https://arxiv.org/pdf/2303.04364">Paper</a>
 </span>
