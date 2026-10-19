@@ -134,12 +134,12 @@ Yuchen Yang, Xuanyi Liu, **Xing Gao**<sup>&#x2709;</sup>, Zhihang Zhong, Weiyao 
   
 ### **InfCoiL: Coordinated Planner-Controller Learning for Closed-Loop Physics-Based Human-Object Interaction** 
 
-Yude Zou, Yifei Yao, Yiwei Hao, Hanqing Wang, and **Xing Gao**<sup>&#x2709;</sup>    
+Yude Zou, Yifei Yao, Yiwei Hao, Hanqing Wang, **Xing Gao**<sup>&#x2709;</sup>    
 *NeurIPS 2026*  
 <!-- <span class="paper-links">
   <a href="https://yudezou.github.io/InfBaGel-page">Project Page</a>
-  <a href="https://openreview.net/pdf?id=TeyHNq4WlI">Paper</a> -->
-</span>
+  <a href="https://openreview.net/pdf?id=TeyHNq4WlI">Paper</a> 
+</span>-->
   </div>
 </div>
 
