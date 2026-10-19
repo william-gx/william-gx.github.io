@@ -13,6 +13,7 @@ I received my Ph.D. degree in Electronic Engineering from [Shanghai Jiao Tong Un
 I warmly welcome interested students and interns to reach out via email if you are interested in collaboration!
 
 <h2 id="news">News</h2>
+* \[2026/09\]  InfCoiL accepted by NeurIPS'26 and 1 paper accepted by IEEE TCSVT. 
 * \[2026/06\]  An agentic framework for open-world mobile manipulation [REAL](https://internrobotics.github.io/REAL/) accepted by ECCV'26. 
 * \[2026/05\]  EmbodiedClaw accepted by CVPR MARS Workshop'26. 
 * \[2026/05\]  We have released a *24/7 online mobile manipulation benchmark* [EBench](https://github.com/InternRobotics/EBench).
@@ -116,12 +117,12 @@ Yude Zou, Junji Gong, **Xing Gao**<sup>&#x2709;</sup>, Zixuan Li, Tianxing Chen,
   <img src="/assets/figures/xassup.png" alt="3dpose">
   <div class="paper-meta" markdown="1">
   
-### **X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation** 
+### **Contending with Depth Ambiguity in Monocular 3D Pose Estimation via Multi-Hypothesis Modeling and SMPL Priors** 
 
-Yuchen Yang, Xuanyi Liu, **Xing Gao**, Zhihang Zhong, and Xiao Sun    
-*arXiv 2024*  
+Yuchen Yang, Xuanyi Liu, **Xing Gao**<sup>&#x2709;</sup>, Zhihang Zhong, Weiyao Lin, and Xiao Sun<sup>&#x2709;</sup>        
+*IEEE TCSVT 2026*  
 <span class="paper-links">
-  <a href="https://arxiv.org/pdf/2411.13026?">Paper</a>
+  <a href="https://ieeexplore.ieee.org/abstract/document/11703673/">Paper</a>
 </span>
   </div>
 </div>
