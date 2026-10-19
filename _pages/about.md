@@ -129,7 +129,7 @@ Yuchen Yang, Xuanyi Liu, **Xing Gao**<sup>&#x2709;</sup>, Zhihang Zhong, Weiyao 
 
 <!-- ------------------ Paper  ------------------ -->
 <div class="paper-item">
-  <img src="/assets/figures/infbagel.jpg" alt="InfBaGel">
+  <img src="/assets/figures/infcoil.png" alt="InfCoiL">
   <div class="paper-meta" markdown="1">
   
 ### **InfCoiL: Coordinated Planner-Controller Learning for Closed-Loop Physics-Based Human-Object Interaction** 
